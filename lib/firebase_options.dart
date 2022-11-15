@@ -46,6 +46,7 @@ class DefaultFirebaseOptions {
     }
   }
 
+
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyAvXNc8H3nT4eq-uH84P3O_63NmSbj4svE',
     appId: '1:70685944907:web:b7dd6206e80f6b346c31ce',
@@ -57,11 +58,11 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDGOPwqa2vUmbeDDu_eswfBrMttY1DhHwY',
-    appId: '1:70685944907:android:cca447e5eb4c887d6c31ce',
-    messagingSenderId: '70685944907',
-    projectId: 'loyalty-platform-dbb05',
-    storageBucket: 'loyalty-platform-dbb05.appspot.com',
+    apiKey: 'AIzaSyBZRNPBsBXFfR0RyfVTfUj1521XEFcchsQ',
+    appId: '1:629206687561:android:c2b093a3de152d3a174498',
+    messagingSenderId: '629206687561',
+    projectId: 'loyalty-paradise-dev',
+    storageBucket: 'loyalty-paradise-dev.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(

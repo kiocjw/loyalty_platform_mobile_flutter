@@ -6,7 +6,9 @@ import 'package:loyalty_platform_mobile_flutter/screens/welcome_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+  await Firebase.initializeApp(
+      name: "com.paradise.loyaltydev",
+      options: DefaultFirebaseOptions.currentPlatform);
   runApp(const MyApp());
 }
 
