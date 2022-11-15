@@ -14,7 +14,7 @@ class BrandsListScreen extends StatelessWidget {
     final items = getBrands();
     return Scaffold(
         appBar: AppBar(
-          title: Text('Thương hiệu'),
+          title: Text('Foods'),
           elevation: 0,
           backgroundColor: Colors.purple[400],
           centerTitle: true,

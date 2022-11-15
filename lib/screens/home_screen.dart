@@ -132,7 +132,7 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Row(
                 children: [
                   Text(
-                    "Ưu đãi cho bạn",
+                    "Deals for you",
                     style: TextStyle(
                         fontSize: 20,
                         color: Colors.purple[800],
@@ -171,7 +171,7 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Row(
                 children: [
                   Text(
-                    "Xem gì hôm nay",
+                    "Today Deals",
                     style: TextStyle(
                         fontSize: 20,
                         color: Colors.purple[800],

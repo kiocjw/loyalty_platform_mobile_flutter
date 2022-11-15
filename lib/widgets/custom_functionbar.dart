@@ -14,9 +14,9 @@ class CustomFunctionBar extends StatelessWidget {
       Icons.card_giftcard,
     ];
     List tilte = [
-      "Tìm Nhà Hàng",
-      "Thương Hiệu",
-      "Ví Voucher",
+      "Restaurants",
+      "Foods",
+      "Voucher",
     ];
     return Container(
       width: MediaQuery.of(context).size.width,

@@ -8,7 +8,7 @@ List<Brand> getBrands() {
 
   items.add(Brand(
       'Passio',
-      'Passio Coffee là thương hiệu tiên phong trong phong cách “to go” – cafe mang đi tại Việt Nam. Trải qua hơn một thập kỷ hình thành và phát triển, Passio Coffee là lựa chọn lý tưởng của những “tín đồ cafe”. Quyến rũ nhưng cũng rất tao nhã, truyền thống nhưng không kém phần hiện đại, Passio Coffee mong muốn khách hàng sẽ khám phá được sự liên kết đặc biệt trong từng nguyên liệu đã làm nên ly thức uống tuyệt hảo chứ không đơn thuần chỉ là thưởng thức một sản phẩm cafe.',
+      'Passio Coffee is a brand that pioneers in style “to go” –Takeaway coffee in Malaysia. Experience With more than a decade of establishment and development, Passio Coffee is the ideal choice of "coffee lovers". Charming but also very elegant, traditional but no less modern, Passio Coffee wants customers to discover the special connection in each ingredient that makes a great drink, not just a drink. enjoy a coffee product.',
       'assets/images/brandCoffee.jpg',
       'assets/images/LogoPassio.png',
       Colors.lightGreen.shade600));

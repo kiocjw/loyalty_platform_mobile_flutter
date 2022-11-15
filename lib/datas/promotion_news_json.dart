@@ -5,16 +5,16 @@ List<Promotion> getPromotion() {
 
   items.add(Promotion(
       'assets/images/Promotion3.png',
-      'Cafe uống nóng hoặc lạnh chứ không uống nguội bao giờ. Cũng như đời sống luôn có khao khát và thất bại chứ không thể lặng lẽ bỏ qua quá nhiều những cơ hội.',
-      'Ưu đãi mùa hè chỉ từ 35k 1 ly nước bất kì'));
+      'Coffee drinks hot or cold, never cold. Just like life, there are always desires and failures, but you can\'t quietly ignore too many opportunities.',
+      'Summer offer only from 35k 1 glass of any water'));
   items.add(Promotion(
       'assets/images/Promotion2.png',
-      'Phút tĩnh lặng bên ly cafe, không gian dường như được tách biệt với thế giới bên ngoài, xô bồ va hối hả. Gợi nhớ những kỉ niệm, ký ức của chính mình và cá nhân, về đời.',
-      'Ưu đãi đặc biệt giảm giá 45% cho 1 ly cà phê'));
+      'A moment of silence with a cup of coffee, the space seems to be separate from the outside world, hustle and bustle. Recalling memories, own and personal memories, about life.',
+      'Special offer 45% discount for 1 cup of coffee'));
   items.add(Promotion(
       'assets/images/Promotion1.png',
-      'Cuộc đời của chúng ta tương tự tách cafe. tuy nhiên Thông thường chỉ vì chạy theo những cái tách mà chúng ta đã vô tình bỏ lỡ cơ hội thưởng thức cafe.',
-      'Đến ngay Fresh Coffee để nhận được ưu đãi 25% cho 1 ly cà phê chào buổi sáng'));
+      'Our life is like a cup of coffee. However, usually just because we run after cups, we accidentally miss the opportunity to enjoy coffee.',
+      'Come to Fresh Coffee now to get 25% discount for 1 cup of good morning coffee'));
 
   return items;
 }

@@ -84,7 +84,7 @@ class PromotionNewsDetailScreen extends StatelessWidget {
                       child: Row(
                         children: [
                           Text(
-                            'Nội Dung',
+                            'Content',
                             textDirection: TextDirection.ltr,
                             style: TextStyle(
                               fontSize: 17,

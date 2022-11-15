@@ -21,7 +21,7 @@ class _NotificationScreenState extends State<NotificationScreen> {
           elevation: 0,
           backgroundColor: Colors.purple[400],
           title: Text(
-            'Thông Báo',
+            'Notification',
           ),
           centerTitle: true,
         ),
@@ -33,11 +33,11 @@ class _NotificationScreenState extends State<NotificationScreen> {
 
   Widget getBody() {
     List items = [
-      'Ưu đãi cực sốc với chương trình giảm giá lên đến 60%',
-      'Ưu đãi cực sốc với chương trình giảm giá lên đến 60%',
-      'Ưu đãi cực sốc với chương trình giảm giá lên đến 60%',
-      'Ưu đãi cực sốc với chương trình giảm giá lên đến 60%',
-      'Ưu đãi cực sốc với chương trình giảm giá lên đến 60%',
+      'Amazing deals with up to 60% off',
+      'Amazing deals with up to 60% off',
+      'Amazing deals with up to 60% off',
+      'Amazing deals with up to 60% off',
+      'Amazing deals with up to 60% off',
     ];
     return Padding(
       padding: const EdgeInsets.all(8.0),

@@ -127,7 +127,7 @@ class _CustomPromotionPointState extends State<CustomPromotionPoint> {
               child: ElevatedButton(
                 onPressed: () {},
                 child: Text(
-                  'Đổi ngay',
+                  'Redeem',
                   style: TextStyle(
                     fontSize: 16,
                   ),
